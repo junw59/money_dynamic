@@ -2,3 +2,11 @@
 *.json
 *.txt
 *.exe
+*.exp
+*.lib
+*.so
+*.suo
+*.db
+*.sln
+*.vcxproj
+*.png
